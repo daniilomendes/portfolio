@@ -3,7 +3,7 @@ import React from "react";
 import { TypeAnimation } from "react-type-animation";
 
 const PDF_FILE_URL =
-  "http://localhost:3000/danilo_mendes_miranda_curriculo.pdf";
+  "https://portfolio-daniilomendes-projects.vercel.app/danilo_mendes_miranda_curriculo.pdf";
 
 const HeroSection = () => {
   const downloadFileAtUrl = (url) => {
