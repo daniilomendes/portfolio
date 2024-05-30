@@ -11,6 +11,16 @@ export const projectsData = [
   },
   {
     id: 2,
+    title: "E-commerce ECD",
+    description:
+      "E-commerce desenvolvido com NextJs, Typescript, Postgres, PrismaORM e +",
+    image: "https://utfs.io/f/cf47db19-f41d-4772-af14-40566abe94f0-le3xoj.png",
+    tag: ["Todos", "Web"],
+    gitUrl: "https://github.com/daniilomendes/e-commerce",
+    previewUrl: "https://e-commerce-daniilomendes-projects.vercel.app/",
+  },
+  {
+    id: 3,
     title: "Blog",
     description:
       "Um blog feito utilizando API Node, Javascript, React, MongoDb e +",
@@ -18,16 +28,6 @@ export const projectsData = [
     tag: ["Todos", "Web"],
     gitUrl: "https://github.com/daniilomendes/blog",
     previewUrl: "https://blog-zvn5.onrender.com",
-  },
-  {
-    id: 3,
-    title: "E-commerce ECD",
-    description:
-      "E-commerce desenvolvido com NextJs, Typescript, Postgres, PrismaORM e +",
-    image: "https://utfs.io/f/22db3ef3-016c-4b16-9cfb-5327bd747d05-le3xoj.png",
-    tag: ["Todos", "Web"],
-    gitUrl: "https://github.com/daniilomendes/e-commerce",
-    previewUrl: "https://e-commerce-daniilomendes-projects.vercel.app/",
   },
   {
     id: 4,

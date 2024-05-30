@@ -22,7 +22,7 @@ const HeroSection = () => {
   };
 
   return (
-    <section id="hero" className="pb-40 pt-36">
+    <section id="hero" className="pb-28 pt-16">
       <div className="flex flex-col justify-center items-center">
         <div className="col-span-7 place-self-center text-center sm:text-left">
           <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
