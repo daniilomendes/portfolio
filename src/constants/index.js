@@ -21,6 +21,17 @@ export const projectsData = [
   },
   {
     id: 3,
+    title: "FSW Foods",
+    description:
+      "E-commerce desenvolvido com NextJs, Typescript, Postgres, PrismaORM e +",
+    image: "https://utfs.io/f/9c149bbe-a0f3-4d79-abfa-3ae82cda3bfb-1tn2mr.png",
+    tag: ["Todos", "Web"],
+    gitUrl: "https://github.com/daniilomendes/fsw-foods",
+
+    previewUrl: "https://fsw-foods-daniilomendes-projects.vercel.app/",
+  },
+  {
+    id: 4,
     title: "Blog",
     description:
       "Um blog feito utilizando API Node, Javascript, React, MongoDb e +",
@@ -30,7 +41,7 @@ export const projectsData = [
     previewUrl: "https://blog-zvn5.onrender.com",
   },
   {
-    id: 4,
+    id: 5,
     title: "Menu Online",
     description: "O Menu de lanches feito apenas com HTML, CSS e Javascript",
     image: "https://utfs.io/f/0821f123-f8a5-4d50-a57a-d49015a99a8e-1zr6n.png",
@@ -39,7 +50,7 @@ export const projectsData = [
     previewUrl: "https://incandescent-moxie-19bd07.netlify.app",
   },
   {
-    id: 5,
+    id: 6,
     title: "Controle Financeiro",
     description: "Controle seus gastos feito com uma API GraphQl, React e +",
     image: "https://utfs.io/f/050702dd-d9c1-4bea-8537-548a1163cb83-4o7z25.png",
@@ -48,7 +59,7 @@ export const projectsData = [
     previewUrl: "https://expense-tracker-graphql-peva.onrender.com/",
   },
   {
-    id: 6,
+    id: 7,
     title: "KanBan App",
     description:
       "Organize seus afazeres com esta aplicação feita com React e Drag-and-drop",
@@ -58,7 +69,7 @@ export const projectsData = [
     previewUrl: "https://chic-torte-7dabe0.netlify.app",
   },
   {
-    id: 7,
+    id: 8,
     title: "Youtube clone",
     description:
       "Clonando o Youtube utilizando React e a Api do Youtube encontrada no RapidApi",
@@ -68,7 +79,7 @@ export const projectsData = [
     previewUrl: "https://timely-sopapillas-93d31c.netlify.app/",
   },
   {
-    id: 8,
+    id: 9,
     title: "Temporizadores",
     description:
       "Adicione diversos temporizadores com está aplicação feita com React e Typescript",
@@ -78,7 +89,7 @@ export const projectsData = [
     previewUrl: "https://dashing-tapioca-083d6e.netlify.app",
   },
   {
-    id: 9,
+    id: 10,
     title: "Mini Shop com Redux",
     description:
       "Calcule o quanto vai gastar nesse app feito com React, Redux e Typescript",
@@ -88,7 +99,7 @@ export const projectsData = [
     previewUrl: "https://harmonious-palmier-eaff12.netlify.app",
   },
   {
-    id: 10,
+    id: 11,
     title: "Anote suas Metas",
     description:
       "Anote suas metas, mas ele te avisa quando excede-las, feito com React e Typescript",
@@ -98,7 +109,7 @@ export const projectsData = [
     previewUrl: "https://imaginative-scone-36a954.netlify.app",
   },
   {
-    id: 11,
+    id: 12,
     title: "Resumidor de Artigos",
     description:
       "Resuma seus artigos utilizando esta Api Resumidora, feito com React e Javascript",
@@ -108,7 +119,7 @@ export const projectsData = [
     previewUrl: "https://comfy-mousse-2932bb.netlify.app/",
   },
   {
-    id: 12,
+    id: 13,
     title: "Gestor de Estoque",
     description:
       "Adicione e calcule seu estoque com está aplicação feita em React",
@@ -118,7 +129,7 @@ export const projectsData = [
     previewUrl: "https://stupendous-alpaca-ebe272.netlify.app/",
   },
   {
-    id: 13,
+    id: 14,
     title: "Calculadora",
     description:
       "Uma calculadora com modo noturno/claro criada com HTML, CSS e Javascript",
@@ -128,7 +139,7 @@ export const projectsData = [
     previewUrl: "https://willowy-scone-0f20f8.netlify.app/",
   },
   {
-    id: 14,
+    id: 15,
     title: "Vitrine de Carros",
     description:
       "Pesquise sobre os melhores veículos com está Api de Carros, feito com React",
@@ -138,7 +149,7 @@ export const projectsData = [
     previewUrl: "https://coruscating-centaur-cb3cf8.netlify.app/",
   },
   {
-    id: 15,
+    id: 16,
     title: "Quiz",
     description: "Teste seus conhecimentos com este Quiz feito com React",
     image: "https://utfs.io/f/cea7f678-57e0-4187-bd7a-89d34d92c798-22mvp.png",
@@ -147,7 +158,7 @@ export const projectsData = [
     previewUrl: "https://animated-conkies-433c76.netlify.app/",
   },
   {
-    id: 16,
+    id: 17,
     title: "Data Fetching Blog",
     description:
       "Recuperando informações da Api do Blog com React e Typescript",
@@ -157,7 +168,7 @@ export const projectsData = [
     previewUrl: "https://silly-praline-449919.netlify.app",
   },
   {
-    id: 17,
+    id: 18,
     title: "Jogo da Velha",
     description:
       "Se divirta com este jogo da velha feito com HTML, CSS e Javascript",
@@ -167,7 +178,7 @@ export const projectsData = [
     previewUrl: "https://splendorous-sprite-c66f9a.netlify.app/",
   },
   {
-    id: 18,
+    id: 19,
     title: "Lista To Do",
     description:
       "Liste, filtre e conclua seus afazeres com este app feito com HTML, CSS e Javascript",
@@ -177,7 +188,7 @@ export const projectsData = [
     previewUrl: "https://magnificent-kelpie-a2ca22.netlify.app/",
   },
   {
-    id: 19,
+    id: 20,
     title: "Localizador de GitHubs",
     description:
       "Localize os GitHubs utilizando está Api feita com React e Typescript",
@@ -188,7 +199,7 @@ export const projectsData = [
     previewUrl: "https://sparkling-bienenstitch-901450.netlify.app/",
   },
   {
-    id: 20,
+    id: 21,
     title: "Notas Post-it",
     description:
       "Crie, anote e filtre diversos post-its, feita com HTML, CSS e Javascript ",
@@ -198,7 +209,7 @@ export const projectsData = [
     previewUrl: "https://glistening-phoenix-5c72e7.netlify.app/",
   },
   {
-    id: 21,
+    id: 22,
     title: "Pokedex",
     description:
       "Veja os detalhes dos pokemons nessa aplicação feita com React e JavaScript",
@@ -208,7 +219,7 @@ export const projectsData = [
     previewUrl: "https://fascinating-blini-513ce6.netlify.app/",
   },
   {
-    id: 22,
+    id: 23,
     title: "Tela de Login com Gerador de Senhas",
     description:
       "Gere uma senha personalizada, feito com HTML, CSS e Javascript",
@@ -218,7 +229,7 @@ export const projectsData = [
     previewUrl: "https://fancy-buttercream-402fcb.netlify.app/",
   },
   {
-    id: 23,
+    id: 24,
     title: "Gerador de Qr-Code",
     description:
       "Gere QR-codes utilizando está aplicação feita com HTML, CSS e Javascript",
@@ -228,7 +239,7 @@ export const projectsData = [
     previewUrl: "https://bright-manatee-b711d0.netlify.app/",
   },
   {
-    id: 24,
+    id: 25,
     title: "Dashboard",
     description: "UI/UX de um Dashboard completo feito com React",
     image: "https://utfs.io/f/af44742a-8651-4e23-9f44-2b1b8593c16b-l8o1dy.png",
@@ -237,7 +248,7 @@ export const projectsData = [
     previewUrl: "https://shimmering-starship-db869e.netlify.app/",
   },
   {
-    id: 25,
+    id: 26,
     title: "Calculadora Simples",
     description: "Calculadora basica feita com HTML, CSS e Javascript",
     image: "https://utfs.io/f/40429b47-5fd5-4726-a944-8896cae4fecc-k28zqb.png",
@@ -246,7 +257,7 @@ export const projectsData = [
     previewUrl: "https://lighthearted-kataifi-7500ae.netlify.app/",
   },
   {
-    id: 26,
+    id: 27,
     title: "Calculadora de IMC",
     description: "Calcule seu IMC com este site feito em React e Javascript",
     image: "https://utfs.io/f/51e0ae27-336f-4c85-b3c4-db0ede8f48b2-yo5dgf.png",
@@ -255,7 +266,7 @@ export const projectsData = [
     previewUrl: "https://fluffy-nasturtium-e06e48.netlify.app/",
   },
   {
-    id: 27,
+    id: 28,
     title: "Gerador de Box Shadow",
     description:
       "Gere diversos box shadows de maneira rápida, feito com HTML, CSS e Javascript",
@@ -265,7 +276,7 @@ export const projectsData = [
     previewUrl: "https://chic-klepon-bea224.netlify.app/",
   },
   {
-    id: 28,
+    id: 29,
     title: "Site de Acampamentos (UI/UX)",
     description:
       "UI/UX design de um site de viagens feito com React e Typescrip",
