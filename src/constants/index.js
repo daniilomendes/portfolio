@@ -38,7 +38,7 @@ export const projectsData = [
     image: "https://utfs.io/f/c4159761-d634-4d8e-8896-a838fa327149-pmqq2n.png",
     tag: ["Todos", "Web"],
     gitUrl: "https://github.com/daniilomendes/personal-finance",
-    previewUrl: "https://sage-kringle-aa59b6.netlify.app/signup",
+    previewUrl: "https://sage-kringle-aa59b6.netlify.app/",
   },
   {
     id: 5,
