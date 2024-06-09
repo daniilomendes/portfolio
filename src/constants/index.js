@@ -31,14 +31,14 @@ export const projectsData = [
     previewUrl: "https://fsw-foods-daniilomendes-projects.vercel.app/",
   },
   {
-    id: 4,
-    title: "Blog",
+    id: 30,
+    title: "Finanças Pessoais",
     description:
-      "Um blog feito utilizando API Node, Javascript, React, MongoDb e +",
-    image: "https://utfs.io/f/a9a1dd42-3e81-4248-ab3e-0fcfb6220f86-86w4ga.png",
+      "Cuide de suas finanças com este site feito com React e Typescrip",
+    image: "https://utfs.io/f/c4159761-d634-4d8e-8896-a838fa327149-pmqq2n.png",
     tag: ["Todos", "Web"],
-    gitUrl: "https://github.com/daniilomendes/blog",
-    previewUrl: "https://blog-zvn5.onrender.com",
+    gitUrl: "https://github.com/daniilomendes/personal-finance",
+    previewUrl: "https://sage-kringle-aa59b6.netlify.app/signup",
   },
   {
     id: 5,
@@ -48,6 +48,16 @@ export const projectsData = [
     tag: ["Todos", "Web"],
     gitUrl: "https://github.com/daniilomendes/site_de_vendas_lanches",
     previewUrl: "https://incandescent-moxie-19bd07.netlify.app",
+  },
+  {
+    id: 4,
+    title: "Blog",
+    description:
+      "Um blog feito utilizando API Node, Javascript, React, MongoDb e +",
+    image: "https://utfs.io/f/a9a1dd42-3e81-4248-ab3e-0fcfb6220f86-86w4ga.png",
+    tag: ["Todos", "Web"],
+    gitUrl: "https://github.com/daniilomendes/blog",
+    previewUrl: "https://blog-zvn5.onrender.com",
   },
   {
     id: 6,
