@@ -79,15 +79,25 @@ export const projectsData = [
     previewUrl: "https://chic-torte-7dabe0.netlify.app",
   },
   {
-    id: 8,
-    title: "Youtube clone",
+    id: 31,
+    title: "Eventos Históricos",
     description:
-      "Clonando o Youtube utilizando React e a Api do Youtube encontrada no RapidApi",
-    image: "https://utfs.io/f/c05eb9ed-81c3-4f44-890d-e28c4ca907e1-x2mz4d.png",
+      "Veja eventos históricos ocorridos em torno do mundo e favoriteos.",
+    image: "https://utfs.io/f/b5d5f217-4c5e-413c-86b0-7cdd26e263b0-d419de.png",
     tag: ["Todos", "Web"],
-    gitUrl: "https://github.com/daniilomendes/youtube-clone",
-    previewUrl: "https://timely-sopapillas-93d31c.netlify.app/",
+    gitUrl: "https://github.com/daniilomendes/eventos-historicos",
+    previewUrl: "https://rad-bonbon-580c49.netlify.app/",
   },
+  // {
+  //   id: 8,
+  //   title: "Youtube clone",
+  //   description:
+  //     "Clonando o Youtube utilizando React e a Api do Youtube encontrada no RapidApi",
+  //   image: "https://utfs.io/f/c05eb9ed-81c3-4f44-890d-e28c4ca907e1-x2mz4d.png",
+  //   tag: ["Todos", "Web"],
+  //   gitUrl: "https://github.com/daniilomendes/youtube-clone",
+  //   previewUrl: "https://timely-sopapillas-93d31c.netlify.app/",
+  // },
   {
     id: 9,
     title: "Temporizadores",
@@ -148,16 +158,16 @@ export const projectsData = [
     gitUrl: "https://github.com/daniilomendes/calculadora-normal",
     previewUrl: "https://willowy-scone-0f20f8.netlify.app/",
   },
-  {
-    id: 15,
-    title: "Vitrine de Carros",
-    description:
-      "Pesquise sobre os melhores veículos com está Api de Carros, feito com React",
-    image: "https://utfs.io/f/d1b7f0fc-0ee7-4d5b-9931-8f17df75b7b5-soita8.png",
-    tag: ["Todos", "Web"],
-    gitUrl: "https://github.com/daniilomendes/vitrini_de_carros",
-    previewUrl: "https://coruscating-centaur-cb3cf8.netlify.app/",
-  },
+  // {
+  //   id: 15,
+  //   title: "Vitrine de Carros",
+  //   description:
+  //     "Pesquise sobre os melhores veículos com está Api de Carros, feito com React",
+  //   image: "https://utfs.io/f/d1b7f0fc-0ee7-4d5b-9931-8f17df75b7b5-soita8.png",
+  //   tag: ["Todos", "Web"],
+  //   gitUrl: "https://github.com/daniilomendes/vitrini_de_carros",
+  //   previewUrl: "https://coruscating-centaur-cb3cf8.netlify.app/",
+  // },
   {
     id: 16,
     title: "Quiz",
@@ -167,16 +177,16 @@ export const projectsData = [
     gitUrl: "https://github.com/daniilomendes/quiz_com_React",
     previewUrl: "https://animated-conkies-433c76.netlify.app/",
   },
-  {
-    id: 17,
-    title: "Data Fetching Blog",
-    description:
-      "Recuperando informações da Api do Blog com React e Typescript",
-    image: "https://utfs.io/f/fdf3c93f-252c-4a3f-8f99-fc88c162201a-sl99ea.png",
-    tag: ["Todos", "Web"],
-    gitUrl: "https://github.com/daniilomendes/data-fetching-react-ts",
-    previewUrl: "https://silly-praline-449919.netlify.app",
-  },
+  // {
+  //   id: 17,
+  //   title: "Data Fetching Blog",
+  //   description:
+  //     "Recuperando informações da Api do Blog com React e Typescript",
+  //   image: "https://utfs.io/f/fdf3c93f-252c-4a3f-8f99-fc88c162201a-sl99ea.png",
+  //   tag: ["Todos", "Web"],
+  //   gitUrl: "https://github.com/daniilomendes/data-fetching-react-ts",
+  //   previewUrl: "https://silly-praline-449919.netlify.app",
+  // },
   {
     id: 18,
     title: "Jogo da Velha",
@@ -218,16 +228,16 @@ export const projectsData = [
     gitUrl: "https://github.com/daniilomendes/devnotes",
     previewUrl: "https://glistening-phoenix-5c72e7.netlify.app/",
   },
-  {
-    id: 22,
-    title: "Pokedex",
-    description:
-      "Veja os detalhes dos pokemons nessa aplicação feita com React e JavaScript",
-    image: "https://utfs.io/f/ccd68abf-e5d7-42ac-ad02-b6404c2b5afa-6lkuua.png",
-    tag: ["Todos", "Web"],
-    gitUrl: "https://github.com/daniilomendes",
-    previewUrl: "https://fascinating-blini-513ce6.netlify.app/",
-  },
+  // {
+  //   id: 22,
+  //   title: "Pokedex",
+  //   description:
+  //     "Veja os detalhes dos pokemons nessa aplicação feita com React e JavaScript",
+  //   image: "https://utfs.io/f/ccd68abf-e5d7-42ac-ad02-b6404c2b5afa-6lkuua.png",
+  //   tag: ["Todos", "Web"],
+  //   gitUrl: "https://github.com/daniilomendes",
+  //   previewUrl: "https://fascinating-blini-513ce6.netlify.app/",
+  // },
   {
     id: 23,
     title: "Tela de Login com Gerador de Senhas",
@@ -248,15 +258,15 @@ export const projectsData = [
     gitUrl: "https://github.com/daniilomendes/gerador_qrcode",
     previewUrl: "https://bright-manatee-b711d0.netlify.app/",
   },
-  {
-    id: 25,
-    title: "Dashboard",
-    description: "UI/UX de um Dashboard completo feito com React",
-    image: "https://utfs.io/f/af44742a-8651-4e23-9f44-2b1b8593c16b-l8o1dy.png",
-    tag: ["Todos", "Web"],
-    gitUrl: "https://github.com/daniilomendes/dashboard",
-    previewUrl: "https://shimmering-starship-db869e.netlify.app/",
-  },
+  // {
+  //   id: 25,
+  //   title: "Dashboard",
+  //   description: "UI/UX de um Dashboard completo feito com React",
+  //   image: "https://utfs.io/f/af44742a-8651-4e23-9f44-2b1b8593c16b-l8o1dy.png",
+  //   tag: ["Todos", "Web"],
+  //   gitUrl: "https://github.com/daniilomendes/dashboard",
+  //   previewUrl: "https://shimmering-starship-db869e.netlify.app/",
+  // },
   {
     id: 26,
     title: "Calculadora Simples",
@@ -285,14 +295,14 @@ export const projectsData = [
     gitUrl: "https://github.com/daniilomendes/gerador_de_boxshadow",
     previewUrl: "https://chic-klepon-bea224.netlify.app/",
   },
-  {
-    id: 29,
-    title: "Site de Acampamentos (UI/UX)",
-    description:
-      "UI/UX design de um site de viagens feito com React e Typescrip",
-    image: "https://utfs.io/f/77b83094-cfce-4d6f-b764-8ff45c11306c-uizk3p.png",
-    tag: ["Todos", "Web"],
-    gitUrl: "https://github.com/daniilomendes/viagens-app",
-    previewUrl: "https://brilliant-crumble-1b5796.netlify.app/",
-  },
+  // {
+  //   id: 29,
+  //   title: "Site de Acampamentos (UI/UX)",
+  //   description:
+  //     "UI/UX design de um site de viagens feito com React e Typescrip",
+  //   image: "https://utfs.io/f/77b83094-cfce-4d6f-b764-8ff45c11306c-uizk3p.png",
+  //   tag: ["Todos", "Web"],
+  //   gitUrl: "https://github.com/daniilomendes/viagens-app",
+  //   previewUrl: "https://brilliant-crumble-1b5796.netlify.app/",
+  // },
 ];
