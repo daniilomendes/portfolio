@@ -49,16 +49,16 @@ export const projectsData = [
     gitUrl: "https://github.com/daniilomendes/site_de_vendas_lanches",
     previewUrl: "https://incandescent-moxie-19bd07.netlify.app",
   },
-  {
-    id: 4,
-    title: "Blog",
-    description:
-      "Um blog feito utilizando API Node, Javascript, React, MongoDb e +",
-    image: "https://utfs.io/f/a9a1dd42-3e81-4248-ab3e-0fcfb6220f86-86w4ga.png",
-    tag: ["Todos", "Web"],
-    gitUrl: "https://github.com/daniilomendes/blog",
-    previewUrl: "https://blog-zvn5.onrender.com",
-  },
+  // {
+  //   id: 4,
+  //   title: "Blog",
+  //   description:
+  //     "Um blog feito utilizando API Node, Javascript, React, MongoDb e +",
+  //   image: "https://utfs.io/f/a9a1dd42-3e81-4248-ab3e-0fcfb6220f86-86w4ga.png",
+  //   tag: ["Todos", "Web"],
+  //   gitUrl: "https://github.com/daniilomendes/blog",
+  //   previewUrl: "https://blog-zvn5.onrender.com",
+  // },
   {
     id: 6,
     title: "Controle Financeiro",
